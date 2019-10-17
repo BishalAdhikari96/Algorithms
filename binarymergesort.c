@@ -2,7 +2,7 @@
 Name: Bishal Adhikari
 
 ->Command:<-
-  gcc mersesort.c //It compiles the code
+  gcc binarymergesort.c //It compiles the code
  ./a.out < lab1.dat // lab1.dat is a prototype, any data file could be used
                          to run the code as long as it follows the given format
 
