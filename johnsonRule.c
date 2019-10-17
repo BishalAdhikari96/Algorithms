@@ -1,8 +1,8 @@
 /*
 Name: Bishal Adhikari
-ID: 1001664327
+
 ->Command:<-
-  gcc homework2.c //It compiles the code
+  gcc johnsonRule.c //It compiles the code
  ./a.out < lab2.dat // lab1.dat is a prototype, any data file could be used
                          to run the code as long as it follows the given format
 ->objective of the program<-
